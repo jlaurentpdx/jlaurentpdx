@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy.
+
+My name is Jordan, and I am a Full Stack Web Developer and Software Engineer. Prior to venturing into the world of web development, I taught game audio, modular synthesis, programming for microelectronics, laser cutting, and 3D printing at Portland Community College here in Portland, Oregon. I am dedicated to making the web a more open, inclusive, and accessible tool for students, teachers, and lifelong learners.
 
 <!--
 **jlaurentpdx/jlaurentpdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
