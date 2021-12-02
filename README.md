@@ -1,4 +1,4 @@
-![Jordan Laurent, Full Stack Web Developer](../jlaurentpdx/banner.png)
+![Jordan Laurent, Full Stack Web Developer](./banner.png)
 
 ### Howdy.
 
