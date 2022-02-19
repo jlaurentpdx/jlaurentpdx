@@ -1,4 +1,4 @@
-![Jordan Laurent, Full Stack Web Developer](./banner.png)
+![Jordan Laurent, Full Stack Web Developer](./banner_gh.png)
 
 ### _About
 
