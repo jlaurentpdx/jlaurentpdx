@@ -1,10 +1,10 @@
 ![Jordan Laurent, Full Stack Web Developer](./banner_gh_040222.png)
 
-### _About_
+### Howdy.
 
-Howdy there - I'm Jordan. I develop, design, compose, teach, and learn from my home in Portland, Oregon.   
+I'm Jordan. I develop, design, compose, teach, and learn from my home in Portland, Oregon.   
 
-Prior to venturing into the world of web development, I taught video game audio, modular synthesis, programming Arduino for microelectronics, CNC laser cutting, and 3D printing at Portland Community College. 
+Creativity, compassion, and curiosity are the driving forces in my work wherever it takes me. Prior to venturing into the world of web development, I taught video game audio, modular synthesis, programming Arduino for microelectronics, CNC laser cutting, and 3D printing at Portland Community College. 
 
 <!--
 **jlaurentpdx/jlaurentpdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
