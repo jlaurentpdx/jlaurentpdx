@@ -1,8 +1,8 @@
-![Jordan Laurent, Full Stack Web Developer](./banner_gh.png)
+![Jordan Laurent, Full Stack Web Developer](./banner_gh_040222.png)
 
-### __About_
+### _About_
 
-**Howdy**. I'm Jordan - a developer, designer, musician, and educator based in Portland, OR. 
+Howdy there - I'm Jordan. I develop, design, compose, teach, and learn from my home in Portland, Oregon.   
 
 Prior to venturing into the world of web development, I taught video game audio, modular synthesis, programming Arduino for microelectronics, CNC laser cutting, and 3D printing at Portland Community College. 
 
